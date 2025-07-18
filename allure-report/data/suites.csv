@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Validate adding multiple candidates using TestNG DataProvider","5713","testAddCandidate","OrangeHRM-APITests","Fri Jul 18 11:57:44 GMT+03:00 2025","passed","Fri Jul 18 11:57:50 GMT+03:00 2025","tests.CandidatesTest","Recruitment Tests","tests.CandidatesTest","testAddCandidate"
+"Validate adding multiple candidates using TestNG DataProvider","640","testAddCandidate","OrangeHRM-APITests","Fri Jul 18 11:57:50 GMT+03:00 2025","passed","Fri Jul 18 11:57:51 GMT+03:00 2025","tests.CandidatesTest","Recruitment Tests","tests.CandidatesTest","testAddCandidate"
+"Validate adding multiple candidates using TestNG DataProvider","685","testAddCandidate","OrangeHRM-APITests","Fri Jul 18 11:57:51 GMT+03:00 2025","passed","Fri Jul 18 11:57:51 GMT+03:00 2025","tests.CandidatesTest","Recruitment Tests","tests.CandidatesTest","testAddCandidate"
